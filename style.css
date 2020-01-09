@@ -61,3 +61,15 @@ html {
   .container{
     font-family: 'Open Sans', sans-serif;
   }
+  .started{
+    background-color: hsl(198, 60%, 50%);
+    border-radius: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: white;
+    border-color: hsl(198, 60%, 50%);
+    font-size: medium;
+  }
+  
