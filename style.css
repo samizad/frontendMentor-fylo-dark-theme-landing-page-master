@@ -72,4 +72,29 @@ html {
     border-color: hsl(198, 60%, 50%);
     font-size: medium;
   }
-  
+  .mainicon{
+    padding-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+  }
+  .mainiconitem{
+    width: 100%;
+    padding-bottom: 10%;
+  }
+ 
+    .mainicon>div {
+      width: 100%;
+      flex: 0 50%;
+      /*demo*/
+    
+    }
+    .mainiconitem>p{
+      padding-left: 10%;
+      padding-right: 15%;
+    }
+    
